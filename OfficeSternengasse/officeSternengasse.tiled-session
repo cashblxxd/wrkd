@@ -1,0 +1,300 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.84
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx": {
+            "scale": 0.6335,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 858.7213891081294,
+                "y": 1676.4009471191794
+            }
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Basic Office": {
+            "scaleInDock": 1.3277
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Beläge": {
+            "scaleInDock": 1.513
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Büro": {
+            "scaleInDock": 1.0937
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Büro Beläge": {
+            "scaleInDock": 1.2801
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Draußen": {
+            "scaleInDock": 0.8928
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Einrichtung1": {
+            "scaleInDock": 0.6957
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Einrichtung2": {
+            "scaleInDock": 1.0133
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Einrichtung3": {
+            "scaleInDock": 1.3228
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Einrichtung4": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx#Flags_32x32nr3": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/untitled.tmx": {
+            "scale": 0.2364,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1010.9983079526227,
+                "y": 1027.9187817258885
+            }
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json": {
+            "scale": 0.581,
+            "selectedLayer": 18,
+            "viewCenter": {
+                "x": 996.5576592082616,
+                "y": 667.8141135972462
+            }
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Basic Office": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Büro": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Büro Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Draußen": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Einrichtung1": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Einrichtung2": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Einrichtung3": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json#Einrichtung4": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx": {
+            "scale": 0.4726,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 296.23360135421075,
+                "y": 719.4244604316546
+            }
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Basic Office": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Buchstaben": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Büro": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Büro Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Draußen": {
+            "scaleInDock": 1.6416,
+            "scaleInEditor": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Einrichtung1": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Einrichtung2": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Einrichtung3": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.tmx#Einrichtung4": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx": {
+            "scale": 0.34326171875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1025.456614509246,
+                "y": 1025.4566145092463
+            }
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Basic Office": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Büro": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Büro Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Draußen": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Einrichtung1": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Einrichtung2": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Einrichtung3": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx#Einrichtung4": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json": {
+            "scale": 0.411,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 829.6836982968371,
+                "y": 1077.8588807785889
+            }
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Basic Office": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Büro": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Büro Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Draußen": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Einrichtung1": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Einrichtung2": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Einrichtung3": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Einrichtung4": {
+            "scaleInDock": 1
+        },
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json#Flags_32x32nr3": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx": {
+            "scale": 0.23687499999999997,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1422.6912928759893,
+                "y": 496.04221635883914
+            }
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Basic Office": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Büro": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Büro Beläge": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Draußen": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Einrichtung1": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Einrichtung2": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Einrichtung3": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Einrichtung4": {
+            "scaleInDock": 1
+        },
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx#Flags_32x32nr3": {
+            "scaleInDock": 1
+        },
+        "Beläge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2436.3636363636365,
+                "y": 1125.7575757575758
+            }
+        },
+        "office1.tmx#Basic Office": {
+            "scaleInDock": 2.057
+        },
+        "office1.tmx#Beläge": {
+            "scaleInDock": 2.8329
+        },
+        "office1.tmx#Büro": {
+            "scaleInDock": 1.0404
+        },
+        "office1.tmx#Büro Beläge": {
+            "scaleInDock": 1.7032
+        },
+        "office1.tmx#Draußen": {
+            "scaleInDock": 1
+        },
+        "office1.tmx#Einrichtung1": {
+            "scaleInDock": 1.1655
+        },
+        "office1.tmx#Einrichtung2": {
+            "scaleInDock": 1.4814
+        },
+        "office1.tmx#Einrichtung3": {
+            "scaleInDock": 1
+        },
+        "office1.tmx#Einrichtung4": {
+            "scaleInDock": 1
+        },
+        "office1.tmx#Flags_32x32nr3": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/mweyaruider/IdeaProjects/die_Gasse_der_Sternen/OfficeSternengasse",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+    ],
+    "project": "officeSternengasse.tiled-project",
+    "recentFiles": [
+        "office1.tmx",
+        "/Users/mweyaruider/IdeaProjects/workadventure/maps/officeSternengasse/OfficeSternengasse/office1.tmx",
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/untitled.tmx",
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/map_files/map02.json",
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/BarMap/bar1.tmx",
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryFloor/entryFloor.json",
+        "/Users/lwackerle/Projects/Telekom/VirtualOffice_Maps_Final/wamaps/EntryMap/office1.tmx",
+        "Beläge.tsx"
+    ]
+}

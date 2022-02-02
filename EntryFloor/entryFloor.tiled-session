@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "entryFloor.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Beläge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "entryFloor.tmx": {
+            "scale": 0.40170898437499997,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 990.7669867509422,
+                "y": 1024.3734046432478
+            }
+        }
+    },
+    "map.height": 64,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 64,
+    "openFiles": [
+        "entryFloor.tmx",
+        "Beläge.tsx"
+    ],
+    "project": "entryFloor.tiled-project",
+    "recentFiles": [
+        "Beläge.tsx",
+        "entryFloor.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx"
+}
